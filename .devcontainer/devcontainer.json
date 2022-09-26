@@ -1,0 +1,8 @@
+{
+	"name": "php-mysql-phpmyadmin",
+	"dockerComposeFile": [
+		"docker-compose.yml"
+	],
+	"service": "php",
+	"workspaceFolder": "/workspace"
+}

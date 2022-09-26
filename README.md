@@ -1,1 +1,2 @@
 # php_mysql_env
+PHPで軽くコーディングする用のRemote containerです。
