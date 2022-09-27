@@ -4,5 +4,13 @@
 		"docker-compose.yml"
 	],
 	"service": "php",
-	"workspaceFolder": "/workspace"
+	"workspaceFolder": "/workspace",
+	"extensions": [
+		"bmewburn.vscode-intelephense-client",
+		"eamodio.gitlens",
+		"MehediDracula.php-namespace-resolver",
+		"marabesi.php-import-checker",
+		"donjayamanne.githistory",
+		"xdebug.php-debug"
+	]
 }
